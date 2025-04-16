@@ -7,7 +7,7 @@ Esta es una sencilla calculadora de Índice de Masa Corporal (IMC) implementada 
 1.  Asegúrate de tener Python instalado en tu sistema.
 2.  Clona este repositorio o descarga el archivo `imc_calculadora.py`.
 3.  Abre tu terminal o símbolo del sistema y navega al directorio donde guardaste el archivo.
-4.  Ejecuta el script con el comando: `python imc_calculadora.py`
+4.  Ejecuta el script con el comando: `py imc_calculadora.py`
 5.  Sigue las instrucciones para ingresar tu peso en kilogramos y tu altura en metros.
 6.  La aplicación mostrará tu IMC y la categoría de peso correspondiente.
 
