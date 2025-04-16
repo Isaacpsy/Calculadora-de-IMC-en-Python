@@ -24,4 +24,4 @@ Esta es una sencilla calculadora de Índice de Masa Corporal (IMC) implementada 
 
 ## Autor
 
-Isaacpsy
+MatiasFrutos
